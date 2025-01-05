@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjeet6972
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps advance concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manjeet6972@gmail.com
 
