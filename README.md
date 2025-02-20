@@ -33,7 +33,11 @@ Welcome to my GitHub! I'm a **DevOps Engineer** with **2+ years of experience** 
 
 ## 📫 Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/manjeet6972/)    
-📧 [Email](manjeet6972@gmail.com)  
+📧 [Email](mailto:your.manjeet6972@gmail.com)
+
+Or You can Copy & Paste 
+LinkedIn - https://www.linkedin.com/in/manjeet6972/
+Email: manjeet6972@gmail.com
 
 💡 **"Automate Everything. Optimize Continuously."**  
 
